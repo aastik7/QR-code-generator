@@ -1,6 +1,6 @@
-# Project Name
+# QR CODE GENERATOR 
 
-Brief description of your project.
+generate qr code for texts and url
 
 ## Installation
 
