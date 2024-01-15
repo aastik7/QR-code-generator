@@ -4,7 +4,7 @@ generate qr code for texts and url
 
 ## Installation
 
-1. Install dependencies: `pip3 install qrcode Image`
+1. Install dependencies: `pip3 install qrcode`
 2. Clone the repository: `git clone https://github.com/aastik7/QR-code-generator`
 3. Run the script: `generator.py`
 
