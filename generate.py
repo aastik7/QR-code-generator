@@ -1,5 +1,5 @@
 #Prerequisites: 
-#pip3 install qrcode Image
+#pip3 install qrcode 
 
 import qrcode
 
